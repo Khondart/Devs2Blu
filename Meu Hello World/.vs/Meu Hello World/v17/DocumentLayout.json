@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|d:\\cursos-dev\\\u002Bdevs2blu\\c#\\projetos-aulas\\meu hello world\\meu hello world\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|solutionrelative:meu hello world\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|d:\\cursos-dev\\\u002Bdevs2blu\\c#\\projetos-aulas\\meu hello world\\meu hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|solutionrelative:meu hello world\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|d:\\cursos-dev\\\u002Bdevs2blu\\c#\\projetos-aulas\\meu hello world\\meu hello world\\caderno c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B04D2E-B124-4425-BF33-7E302E62915C}|Meu Hello World\\Meu Hello World.csproj|solutionrelative:meu hello world\\caderno c#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caderno C#.cs",
+              "DocumentMoniker": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Caderno C#.cs",
+              "RelativeDocumentMoniker": "Meu Hello World\\Caderno C#.cs",
+              "ToolTip": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Caderno C#.cs",
+              "RelativeToolTip": "Meu Hello World\\Caderno C#.cs",
+              "ViewState": "AgIAAHIFAAAAAAAAAAAAAIYFAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:42:16.247Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Program.cs",
+              "RelativeDocumentMoniker": "Meu Hello World\\Program.cs",
+              "ToolTip": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Program.cs",
+              "RelativeToolTip": "Meu Hello World\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:07:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Executor.cs",
+              "DocumentMoniker": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Executor.cs",
+              "RelativeDocumentMoniker": "Meu Hello World\\Executor.cs",
+              "ToolTip": "D:\\Cursos-Dev\\\u002BDevs2Blu\\C#\\projetos-aulas\\Meu Hello World\\Meu Hello World\\Executor.cs",
+              "RelativeToolTip": "Meu Hello World\\Executor.cs",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAcwP8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T22:25:39.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

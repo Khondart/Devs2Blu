@@ -1,0 +1,14 @@
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.AssemblyInfoInputs.cache
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.AssemblyInfo.cs
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.csproj.CoreCompileInputs.cache
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\bin\Debug\net8.0\Meu Hello World.exe
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\bin\Debug\net8.0\Meu Hello World.deps.json
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\bin\Debug\net8.0\Meu Hello World.runtimeconfig.json
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\bin\Debug\net8.0\Meu Hello World.dll
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\bin\Debug\net8.0\Meu Hello World.pdb
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.dll
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\refint\Meu Hello World.dll
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.pdb
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\Meu Hello World.genruntimeconfig.cache
+D:\Cursos-Dev\+Devs2Blu\C#\projetos-aulas\Meu Hello World\Meu Hello World\obj\Debug\net8.0\ref\Meu Hello World.dll
